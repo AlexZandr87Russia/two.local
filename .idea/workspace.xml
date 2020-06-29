@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da20076d-9bcc-47de-99ea-8dc858ec441c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="ee601900-48c1-448f-a976-0641b3cf80a1" name="localhost" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1" />
+  <component name="ProjectId" id="1cDTKDFgF6DBUN6Lt1CnFPDAeaZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="PHP Script.cookie.php">
+    <configuration name="cookie.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/demo/cookies/cookie.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.1" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/demo/test.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Script.index.php" />
+      <item itemvalue="PHP Script.cookie.php" />
+      <item itemvalue="PHP Script.test.php" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.cookie.php" />
+        <item itemvalue="PHP Script.test.php" />
+        <item itemvalue="PHP Script.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\MSI\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da20076d-9bcc-47de-99ea-8dc858ec441c" name="Default Changelist" comment="" />
+      <created>1590062097662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590062097662</updated>
+      <workItem from="1590062098840" duration="27000" />
+      <workItem from="1590064214503" duration="466000" />
+      <workItem from="1590064913999" duration="55000" />
+      <workItem from="1590064970661" duration="237000" />
+      <workItem from="1590065514987" duration="57000" />
+      <workItem from="1590065648211" duration="119000" />
+      <workItem from="1590065802038" duration="19000" />
+      <workItem from="1590065972643" duration="1057000" />
+      <workItem from="1590147286538" duration="4456000" />
+      <workItem from="1590738744736" duration="65000" />
+      <workItem from="1590998204465" duration="7084000" />
+      <workItem from="1591088861615" duration="4662000" />
+      <workItem from="1591098450500" duration="638000" />
+      <workItem from="1591099140020" duration="2989000" />
+      <workItem from="1591164151540" duration="5925000" />
+      <workItem from="1591180817275" duration="322000" />
+      <workItem from="1591181148797" duration="1718000" />
+      <workItem from="1591271023543" duration="559000" />
+      <workItem from="1593432736232" duration="1499000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="348" y="67" key="#CLI_Interpreters" timestamp="1590738801977">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="348" y="67" key="#CLI_Interpreters/0.0.1536.824@0.0.1536.824" timestamp="1590738801977" />
+    <state x="484" y="95" key="#cookie.php" timestamp="1590738761652">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="484" y="95" key="#cookie.php/0.0.1536.824@0.0.1536.824" timestamp="1590738761652" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1593434045407">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593434045407" />
+    <state width="1493" height="226" key="GridCell.Tab.0.bottom" timestamp="1591181437287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591181437287" />
+    <state width="1493" height="226" key="GridCell.Tab.0.center" timestamp="1591181437287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591181437287" />
+    <state width="1493" height="226" key="GridCell.Tab.0.left" timestamp="1591181437287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591181437287" />
+    <state width="1493" height="226" key="GridCell.Tab.0.right" timestamp="1591181437287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591181437287" />
+    <state x="604" y="336" key="NewPhpFileDialog" timestamp="1591096879452">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1591096879452" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1593434011301">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593434011301" />
+    <state x="195" y="146" key="search.everywhere.popup" timestamp="1591096819777">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="195" y="146" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1591096819777" />
+  </component>
+</project>
