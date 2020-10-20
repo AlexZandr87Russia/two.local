@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f2260f8-06ba-4604-b3b0-61ca7ebbdf59" name="Default Changelist" comment="Work_20_10">
+    <list default="true" id="9f2260f8-06ba-4604-b3b0-61ca7ebbdf59" name="Default Changelist" comment="Work_10_20_2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,11 +38,12 @@
     <property name="ChangesTree.GroupingKeys" value="" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../new.local" />
     <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
-  <component name="RunManager" selected="PHP Script.q3.php">
+  <component name="RunManager" selected="PHP Script.index.php">
     <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
       <CommandLine>
         <PhpTestInterpreterSettings>
@@ -71,7 +72,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603196785281</updated>
-      <workItem from="1603196786516" duration="1314000" />
+      <workItem from="1603196786516" duration="1457000" />
+      <workItem from="1603198260176" duration="23000" />
     </task>
     <task id="LOCAL-00001" summary="Work_20_10">
       <created>1603197699307</created>
@@ -80,7 +82,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603197699307</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Work_20_10">
+      <created>1603198152518</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603198152518</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Work_10_20_2">
+      <created>1603198214580</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603198214580</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,10 +112,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Work_20_10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Work_20_10" />
+    <MESSAGE value="Work_10_20_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Work_10_20_2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="484" y="95" key="#index.php" timestamp="1603196931651">
@@ -110,37 +128,37 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="484" y="95" key="#q3.php/0.0.1536.824@0.0.1536.824" timestamp="1603197300874" />
-    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1603198065410">
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1603198280406">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603198065410" />
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603198280406" />
     <state x="647" y="310" key="Github.ShareDialog" timestamp="1603197887425">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1603197887425" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1603197281799">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1603198245068">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603197281799" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1603197281799">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603198245068" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1603198245068">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603197281799" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1603197281799">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603198245068" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1603198245068">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603197281799" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1603197281799">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603198245068" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1603198245068">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603197281799" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603198245068" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1603198101969">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603198101969" />
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1603197717507">
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1603198216449">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603197717507" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603198216449" />
   </component>
 </project>
