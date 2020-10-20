@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f2260f8-06ba-4604-b3b0-61ca7ebbdf59" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/terminal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" />
+    <list default="true" id="9f2260f8-06ba-4604-b3b0-61ca7ebbdf59" name="Default Changelist" comment="Work_20_10">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/cookies/cookie.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cookies/cookie.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/test.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,11 +35,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="RunManager" selected="PHP Script.q3.php">
     <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
@@ -69,12 +71,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603196785281</updated>
-      <workItem from="1603196786516" duration="862000" />
+      <workItem from="1603196786516" duration="1314000" />
     </task>
+    <task id="LOCAL-00001" summary="Work_20_10">
+      <created>1603197699307</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603197699307</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Work_20_10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Work_20_10" />
   </component>
   <component name="WindowStateProjectService">
     <state x="484" y="95" key="#index.php" timestamp="1603196931651">
@@ -85,14 +110,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="484" y="95" key="#q3.php/0.0.1536.824@0.0.1536.824" timestamp="1603197300874" />
-    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1603197632847">
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1603198065410">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603197632847" />
-    <state x="647" y="310" key="Github.ShareDialog" timestamp="1603197609690">
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603198065410" />
+    <state x="647" y="310" key="Github.ShareDialog" timestamp="1603197887425">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1603197609690" />
+    <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1603197887425" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1603197281799">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -109,9 +134,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603197281799" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1603197463946">
+    <state x="277" y="57" key="SettingsEditor" timestamp="1603198101969">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603197463946" />
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603198101969" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1603197717507">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603197717507" />
   </component>
 </project>
