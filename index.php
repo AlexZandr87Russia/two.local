@@ -13,7 +13,7 @@
 		<div id="header">
 			<!-- Верхняя часть страницы -->
 			<img src="logo.gif" width="187" height="29" alt="Наш логотип" class="logo" />
-			<span class="slogan">обо всём сразу</span>
+			<span class="slogan">обо всём сразу на хуй</span>
 			<!-- Верхняя часть страницы -->
 		</div>
 
