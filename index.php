@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title><?= $title?></title>
+		<title><?=$title?></title>
 		<meta charset="utf-8" />
 		<link rel="stylesheet" type="text/css" href="inc/style.css" />
 	</head>
@@ -19,7 +19,7 @@
 
 		<div id="content">
 			<!-- Заголовок -->
-			<h1><?= $header?></h1>
+			<h1><?=$header?></h1>
 			<!-- Заголовок -->
 			<!-- Область основного контента -->
 			<?php
