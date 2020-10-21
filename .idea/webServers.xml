@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="14b2ec6e-e463-4d6b-8c78-673208a7f3f3" name="two.local" url="http://localhost/two.local/">
-        <fileTransfer mountedRoot="C:\Soft\OpenServer\domains\localhost\two.local" accessType="MOUNT" port="0" />
+      <webServer id="7a44ca3e-b83c-48e4-833a-8d342d5a505d" name="localhost" url="http://localhost/two.local/">
+        <fileTransfer mountedRoot="C:\OSPanel\domains\localhost\two.local" accessType="MOUNT" port="0" />
       </webServer>
     </option>
   </component>
