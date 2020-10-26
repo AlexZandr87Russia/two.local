@@ -10,10 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bb4ff91-a168-45f1-8c40-079c3ee24ed9" name="Default Changelist" comment="Work_10_21_3">
-      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+    <list default="true" id="5bb4ff91-a168-45f1-8c40-079c3ee24ed9" name="Default Changelist" comment="Work_10_21_4">
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/cookies/cookie.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cookies/cookie.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/cookie.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/cookie.inc.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +41,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="web.server" />
@@ -50,8 +51,13 @@
       <recent name="C:\OSPanel\domains\localhost\two.local" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.cookie.php">
-    <configuration name="about.inc.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/inc/about.inc.php">
+  <component name="RunManager" selected="PHP Script.zasada.php">
+    <configuration name="cookie.inc.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/inc/cookie.inc.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.1" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
       <method v="2" />
     </configuration>
     <configuration name="cookie.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/demo/cookies/cookie.php">
@@ -78,12 +84,21 @@
       </CommandLine>
       <method v="2" />
     </configuration>
+    <configuration name="zasada.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/demo/cookies/zasada.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.1" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.zasada.php" />
+        <item itemvalue="PHP Script.cookie.inc.php" />
         <item itemvalue="PHP Script.cookie.php" />
         <item itemvalue="PHP Script.test.php" />
         <item itemvalue="PHP Script.index.php" />
-        <item itemvalue="PHP Script.about.inc.php" />
       </list>
     </recent_temporary>
   </component>
@@ -99,6 +114,8 @@
       <updated>1603210869619</updated>
       <workItem from="1603210870852" duration="30000" />
       <workItem from="1603210964098" duration="675000" />
+      <workItem from="1603358860865" duration="9023000" />
+      <workItem from="1603438935998" duration="5411000" />
     </task>
     <task id="LOCAL-00001" summary="Work_10_21_3">
       <created>1603278145451</created>
@@ -107,24 +124,45 @@
       <option name="project" value="LOCAL" />
       <updated>1603278145451</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Work_10_21_4">
+      <created>1603282331932</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603282331932</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Work_10_21_3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Work_10_21_3" />
+    <MESSAGE value="Work_10_21_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Work_10_21_4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="348" y="67" key="#CLI_Interpreters" timestamp="1603211187994">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="348" y="67" key="#CLI_Interpreters/0.0.1536.824@0.0.1536.824" timestamp="1603211187994" />
+    <state x="484" y="95" key="#cookie.inc.php" timestamp="1603282613422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="484" y="95" key="#cookie.inc.php/0.0.1536.824@0.0.1536.824" timestamp="1603282613422" />
     <state x="484" y="95" key="#cookie.php" timestamp="1603280030608">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -137,34 +175,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="484" y="95" key="#test.php/0.0.1536.824@0.0.1536.824" timestamp="1603263794057" />
+    <state x="484" y="95" key="#zasada.php" timestamp="1603456281651">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="484" y="95" key="#zasada.php/0.0.1536.824@0.0.1536.824" timestamp="1603456281651" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1603211287244">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603211287244" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1603282212073">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1603456281672">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603282212073" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1603282212073">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603456281672" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1603456281672">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603282212073" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1603282212073">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603456281672" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1603456281671">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603282212073" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1603282212073">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603456281671" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1603456281672">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603282212073" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603456281672" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1603211306191">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603211306191" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603278146510">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603282336508">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603278146510" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603282336508" />
     <state x="599" y="203" key="svn.repositoryBrowser" timestamp="1603211041753">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
