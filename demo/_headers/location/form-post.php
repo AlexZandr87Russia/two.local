@@ -12,8 +12,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	// ... 
 	
 	// перезапрос формы методом GET
-	//header("Location: " . $_SERVER["PHP_SELF"]);
-	//exit;
+header("Location: " . $_SERVER["PHP_SELF"]);
+exit;
 }
 else {
 	// Чтение куки
