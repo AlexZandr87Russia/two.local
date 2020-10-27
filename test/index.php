@@ -27,7 +27,7 @@ $title = $_POST['title'];
 			<tr>
 				<td align="center">
 					<h1><?= $title?></h1>
-					<p><a href='/index.php'>Прервать тест и вернуться на сайт</a></p>
+					<p><a href='/two.local/test/index.php'>Прервать тест и вернуться на сайт</a></p>
 				</td>
 			</tr>
 		</table>
