@@ -1,4 +1,6 @@
 <?
+define('PATH_LOG', 'pav.log');
+    include 'inc/log.inc.php';
     include 'inc/cookie.inc.php';
 	include 'inc/headers.inc.php';
 ?>
@@ -14,7 +16,7 @@
 		<div id="header">
 			<!-- Верхняя часть страницы -->
 			<img src="logo.gif" width="187" height="29" alt="Наш логотип" class="logo" />
-			<span class="slogan">обо всём сразу сученьки</span>
+			<span class="slogan">обо всём сразу</span>
 			<!-- Верхняя часть страницы -->
 		</div>
 
@@ -45,6 +47,7 @@
 				<li><a href='test/index.php'>Он-лайн тест</a></li>
 				<li><a href='index.php?id=gbook'>Гостевая книга</a></li>
 				<li><a href='eshop/catalog.php'>Магазин</a></li>
+                <li><a href="index.php?id=log">Журнал посещений</a></li>
 			</ul>
 			<!-- Навигация -->
 		</div>

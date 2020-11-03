@@ -10,13 +10,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bb4ff91-a168-45f1-8c40-079c3ee24ed9" name="Default Changelist" comment="Work_10_27_2">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/sessions/destroy.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/sessions/my_test.php" afterDir="false" />
+    <list default="true" id="5bb4ff91-a168-45f1-8c40-079c3ee24ed9" name="Default Changelist" comment="Work_10_27_3">
+      <change afterPath="$PROJECT_DIR$/log/pav.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/sessions/session_destroy.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/sessions/session_destroy.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/test/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/log.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/log.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP_7.1">
-    <include_path>
-      <path value="" />
-    </include_path>
-  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1" />
   <component name="ProjectId" id="1j9KSrnFdcdxQShfdDet1Q6kHUJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -54,15 +49,7 @@
       <recent name="C:\OSPanel\domains\localhost\two.local" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.session_destroy.php">
-    <configuration name="cookie.inc.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/inc/cookie.inc.php">
-      <CommandLine>
-        <PhpTestInterpreterSettings>
-          <option name="interpreterName" value="PHP 7.1" />
-        </PhpTestInterpreterSettings>
-      </CommandLine>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="PHP Script.log.inc.php">
     <configuration name="cookie.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/demo/cookies/cookie.php">
       <CommandLine>
         <PhpTestInterpreterSettings>
@@ -79,15 +66,13 @@
       </CommandLine>
       <method v="2" />
     </configuration>
-    <configuration name="session_destroy.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/demo/sessions/session_destroy.php">
-      <CommandLine>
-        <PhpTestInterpreterSettings>
-          <option name="interpreterName" value="PHP 7.1" />
-        </PhpTestInterpreterSettings>
-      </CommandLine>
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
       <method v="2" />
     </configuration>
-    <configuration name="zasada.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/demo/cookies/zasada.php">
+    <configuration name="log.inc.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/inc/log.inc.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="session_destroy.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/demo/sessions/session_destroy.php">
       <CommandLine>
         <PhpTestInterpreterSettings>
           <option name="interpreterName" value="PHP 7.1" />
@@ -97,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="PHP Script.session_destroy.php" />
+        <item itemvalue="PHP Script.log.inc.php" />
+        <item itemvalue="PHP Script.index.php" />
         <item itemvalue="PHP Script.index.php (1)" />
+        <item itemvalue="PHP Script.session_destroy.php" />
         <item itemvalue="PHP Script.cookie.php" />
-        <item itemvalue="PHP Script.zasada.php" />
-        <item itemvalue="PHP Script.cookie.inc.php" />
       </list>
     </recent_temporary>
   </component>
@@ -120,7 +105,10 @@
       <workItem from="1603358860865" duration="9023000" />
       <workItem from="1603438935998" duration="5411000" />
       <workItem from="1603693115868" duration="4836000" />
-      <workItem from="1603775420824" duration="6744000" />
+      <workItem from="1603775420824" duration="7604000" />
+      <workItem from="1603970858147" duration="747000" />
+      <workItem from="1604316575236" duration="666000" />
+      <workItem from="1604402808761" duration="4596000" />
     </task>
     <task id="LOCAL-00001" summary="Work_10_21_3">
       <created>1603278145451</created>
@@ -157,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603792742804</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Work_10_27_3">
+      <created>1603796344319</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603796344319</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,13 +176,18 @@
     <MESSAGE value="Work_10_26_1" />
     <MESSAGE value="Work_10_27_1" />
     <MESSAGE value="Work_10_27_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Work_10_27_2" />
+    <MESSAGE value="Work_10_27_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Work_10_27_3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="348" y="67" key="#CLI_Interpreters" timestamp="1603211187994">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="348" y="67" key="#CLI_Interpreters/0.0.1536.824@0.0.1536.824" timestamp="1603211187994" />
+    <state x="475" y="56" key="#PHP" timestamp="1604403392926">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="56" key="#PHP/0.0.1536.824@0.0.1536.824" timestamp="1604403392926" />
     <state x="484" y="95" key="#cookie.inc.php" timestamp="1603282613422">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -196,10 +196,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="484" y="95" key="#cookie.php/0.0.1536.824@0.0.1536.824" timestamp="1603280030608" />
-    <state x="484" y="95" key="#index.php" timestamp="1603263777714">
+    <state x="484" y="95" key="#index.php" timestamp="1604403394625">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="484" y="95" key="#index.php/0.0.1536.824@0.0.1536.824" timestamp="1603263777714" />
+    <state x="484" y="95" key="#index.php/0.0.1536.824@0.0.1536.824" timestamp="1604403394625" />
     <state x="484" y="95" key="#index.php_(1)" timestamp="1603785127053">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -216,26 +216,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="484" y="95" key="#zasada.php/0.0.1536.824@0.0.1536.824" timestamp="1603456281651" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1603795276604">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1604403382439">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603795276604" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1603796146770">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604403382439" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1604406475609">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603796146770" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1603796146769">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604406475609" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1604406475609">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603796146769" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1603796146769">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604406475609" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1604406475609">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603796146769" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1603796146769">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604406475609" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1604406475609">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603796146769" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604406475609" />
     <state x="604" y="336" key="NewPhpFileDialog" timestamp="1603795919159">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -244,10 +244,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603795319943" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603791783962">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603796345527">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603791783962" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603796345527" />
     <state x="599" y="203" key="svn.repositoryBrowser" timestamp="1603211041753">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
