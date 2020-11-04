@@ -1,5 +1,5 @@
 <?
-define('PATH_LOG', 'pav.log');
+//define('PATH_LOG', 'pav.log');
     include 'inc/log.inc.php';
     include 'inc/cookie.inc.php';
 	include 'inc/headers.inc.php';
